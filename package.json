@@ -1,0 +1,23 @@
+{
+  "name": "jquery-bootstrap",
+  "version": "1.0.0",
+  "description": "jquery-bootstrap\r ---------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiifa/jquery-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiifa/jquery-bootstrap/issues"
+  },
+  "homepage": "https://github.com/yiifa/jquery-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
